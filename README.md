@@ -2,7 +2,7 @@
 
 This project generates Holiday plans for you using AI.
 
-[![Holiday Plan Generator](./public/screenshot.png)](https://www.krishnasahu.com)
+[![Holiday Plan Generator](./public/screenshot.png)](https://www.krishnasahu.in)
 
 ## How it works
 
