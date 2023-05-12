@@ -2,7 +2,7 @@
 
 This project generates Holiday plans for you using AI.
 
-[![Holiday Plan Generator](./public/screenshot.png)](https://www.krishnasahu.in)
+[![Holiday Plan Generator](https://repository-images.githubusercontent.com/631857699/9ce88f83-3280-4c31-a764-7c730d9ea2f1)](https://where-to-next-topaz.vercel.app/)
 
 ## How it works
 
